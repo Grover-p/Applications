@@ -1,0 +1,7 @@
+object:
+- product_1
+- product_2
+object_quantity: 2
+object_price:
+  product_1: 200₽
+  product_2: 100₽
